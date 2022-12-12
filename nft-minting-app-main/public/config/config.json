@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6F273BB620e32C59c39E0aDfA70aEcfe29A68Af3",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x6f273bb620e32c59c39e0adfa70aecfe29a68af3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 5
+  },
+  "NFT_NAME": "Segantini NFT",
+  "SYMBOL": "SEG",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 15000000000000000,
+  "DISPLAY_COST": 0.015,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/segantini",
+  "SHOW_BACKGROUND": true
+}
